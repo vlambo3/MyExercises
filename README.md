@@ -10,7 +10,7 @@ Inspired in [**LeetCode**](http://leetcode.com/problemset/all/) and [**HackerRan
 * [Technologies](#technologies)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This repository contains exercises with which I practice my logical and programming skills.
 	
 ## Technologies
 Project is created with:
